@@ -1,4 +1,4 @@
-# What the f\*ck JavaScript?
+# What the flip JavaScript?
 
 [![WTFPL 2.0][license-image]][license-url]
 [![NPM version][npm-image]][npm-url]
